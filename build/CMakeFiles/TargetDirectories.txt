@@ -1,4 +1,0 @@
-C:/Users/mayib/Documents/C++_CODE/VsCode Versions/Gravity Sim/build/CMakeFiles/glad.dir
-C:/Users/mayib/Documents/C++_CODE/VsCode Versions/Gravity Sim/build/CMakeFiles/GravitySim.dir
-C:/Users/mayib/Documents/C++_CODE/VsCode Versions/Gravity Sim/build/CMakeFiles/edit_cache.dir
-C:/Users/mayib/Documents/C++_CODE/VsCode Versions/Gravity Sim/build/CMakeFiles/rebuild_cache.dir
