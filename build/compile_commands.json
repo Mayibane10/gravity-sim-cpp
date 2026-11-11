@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/mayib/Documents/C++_CODE/VsCode Versions/Gravity Sim/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -I\"C:/Users/mayib/Documents/C++_CODE/VsCode Versions/Gravity Sim/libraries/GLFW-x64/include\" -I\"C:/Users/mayib/Documents/C++_CODE/VsCode Versions/Gravity Sim/libraries/GLAD-x86_64/include\" -I\"C:/Users/mayib/Documents/C++_CODE/VsCode Versions/Gravity Sim/libraries/GLM\" -I\"C:/Users/mayib/Documents/C++_CODE/VsCode Versions/Gravity Sim/libraries/GLEW-x64/include\" -g -o CMakeFiles\\glad.dir\\libraries\\GLAD-x86_64\\src\\glad.c.obj -c \"C:\\Users\\mayib\\Documents\\C++_CODE\\VsCode Versions\\Gravity Sim\\libraries\\GLAD-x86_64\\src\\glad.c\"",
+  "file": "C:/Users/mayib/Documents/C++_CODE/VsCode Versions/Gravity Sim/libraries/GLAD-x86_64/src/glad.c",
+  "output": "C:/Users/mayib/Documents/C++_CODE/VsCode Versions/Gravity Sim/build/CMakeFiles/glad.dir/libraries/GLAD-x86_64/src/glad.c.obj"
+},
+{
+  "directory": "C:/Users/mayib/Documents/C++_CODE/VsCode Versions/Gravity Sim/build",
+  "command": "C:\\mingw64\\bin\\c++.exe -I\"C:/Users/mayib/Documents/C++_CODE/VsCode Versions/Gravity Sim/libraries/GLFW-x64/include\" -I\"C:/Users/mayib/Documents/C++_CODE/VsCode Versions/Gravity Sim/libraries/GLAD-x86_64/include\" -I\"C:/Users/mayib/Documents/C++_CODE/VsCode Versions/Gravity Sim/libraries/GLM\" -I\"C:/Users/mayib/Documents/C++_CODE/VsCode Versions/Gravity Sim/libraries/GLEW-x64/include\" -g -o CMakeFiles\\GravitySim.dir\\src\\main.cpp.obj -c \"C:\\Users\\mayib\\Documents\\C++_CODE\\VsCode Versions\\Gravity Sim\\src\\main.cpp\"",
+  "file": "C:/Users/mayib/Documents/C++_CODE/VsCode Versions/Gravity Sim/src/main.cpp",
+  "output": "C:/Users/mayib/Documents/C++_CODE/VsCode Versions/Gravity Sim/build/CMakeFiles/GravitySim.dir/src/main.cpp.obj"
+}
+]

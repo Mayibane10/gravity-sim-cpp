@@ -1,0 +1,5 @@
+# ninja log v7
+38	1856	7981274246885017	CMakeFiles/GravitySim.dir/src/main.cpp.obj	ab4fc0d7abcd1b57
+6	6068	7981268891800497	CMakeFiles/glad.dir/libraries/GLAD-x86_64/src/glad.c.obj	52939c889c56e2a3
+6071	6727	7981268952452836	libglad.a	aed4f7d71e75185d
+29	1512	7981276238188576	GravitySim.exe	bf6982338f964864

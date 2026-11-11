@@ -1,0 +1,1 @@
+  -L"C:/Users/mayib/DOCUME~1/C___CO~1/VSCODE~3/GRAVIT~1/LIBRAR~1/GLFW-x64/LIB-MI~1"  -L"C:/Users/mayib/DOCUME~1/C___CO~1/VSCODE~3/GRAVIT~1/LIBRAR~1/GLEW-x64/lib/Release/x64"  libglad.a -lglfw3 -lglew32 -lopengl32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
